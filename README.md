@@ -6,5 +6,6 @@ This is the official wispman WEBSITE
 - [x] Basic Pages & URLS
 - [ ] Basic functionality  
 - [ ] Clean UX/UI
+- [ ] Animations
 - [ ] Refactor
 - [ ] Work in Background
