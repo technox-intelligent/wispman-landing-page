@@ -1,4 +1,19 @@
 
+body{
+
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    height: 100%;
+    width: 100%;
+    font-family: Lato,sans-serif;
+    
+ 
+    font-size: 16px;
+   
+    color: #596068;
+}
+
 h1{
     color: #00B0FF !important;
 }
@@ -31,6 +46,27 @@ h1{
 	background-color: transparent;
 	color: #00B0FF; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
+}
+
+.btn-outline-sm:hover {
+	background-color: transparent;
+	color: #00B0FF; /* needs to stay here because of the color property of a tag */
+	text-decoration: none;
+}
+
+.btn-outline-sm {
+    display: inline-block;
+    padding: 1rem 1.5rem 1rem 1.5rem;
+    border: 1px solid #00B0FF;
+    border-radius: 30px;
+    background-color: transparent;
+    background-color: #00B0FF;
+    font-weight: 600;
+    color: #fff;
+    font-size: 0.875rem;
+    line-height: 0;
+    text-decoration: none;
+    transition: all 0.2s;
 }
 .btn-solid-lg {
     display: inline-block;
